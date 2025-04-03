@@ -1,4 +1,4 @@
-# Python Data Science Handbook
+# 📝 Python Data Science Handbook
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
@@ -7,7 +7,7 @@ This repository contains the entire [Python Data Science Handbook](http://shop.o
 
 ![cover image](notebooks/figures/PDSH-cover.png)
 
-## How to Use this Book
+## 📖How to Use this Book
 
 - Read the book in its entirety online at https://jakevdp.github.io/PythonDataScienceHandbook/
 
@@ -19,7 +19,7 @@ This repository contains the entire [Python Data Science Handbook](http://shop.o
 
 - Buy the printed book through [O'Reilly Media](http://shop.oreilly.com/product/0636920034919.do)
 
-## About
+## 💡About
 
 The book was written and tested with Python 3.5, though other Python versions (including Python 2.7) should work in nearly all cases.
 
@@ -29,7 +29,7 @@ Familiarity with Python as a language is assumed; if you need a quick introducti
 
 See [Index.ipynb](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) for an index of the notebooks available to accompany the text.
 
-## Software
+## 🧮Software
 
 The code in the book was tested with Python 3.5, though most (but not all) will also work correctly with Python 2.7 and other older Python versions.
 
@@ -49,10 +49,10 @@ $ conda create -n PDSH python=3.5 --file requirements.txt
 You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation.
 
 
-## License
+## 📃License
 
-### Code
+### 🗃️Code
 The code in this repository, including all code samples in the notebooks listed above, is released under the [MIT license](LICENSE-CODE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
 
-### Text
+### 📝Text
 The text content of the book is released under the [CC-BY-NC-ND license](LICENSE-TEXT). Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode).
